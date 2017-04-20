@@ -1,6 +1,15 @@
 #Terms of Service and Privacy Policy
 >Welcome, Data Champions!
-We’re really excited by the opportunity to serve you and your students by helping you analyze and visualize your data! Before you get started, we want you to be aware of what we’re doing to protect your data and how we expect you to interact with our services. To help you sort through the legalese (we know it can be a little impenetrable, at times), we’ve included comments that should clarify what it means when you decide to accept our “Terms of Service and Privacy Policy.” Providing you with superior service and security is our priority, and once you’ve accepted these terms, we look forward to enabling you to make smart data-driven decisions that change students’ lives.
+As a Public Benefit Corporation, the Schoolzilla team is committed to our mission of enabling 
+people to use data to improve education for students, especially students from underserved 
+communities --it’s even in our official bylaws! We’re really excited by the opportunity to 
+serve you and your students by helping you analyze and visualize your data! Before you get 
+started, we want you to be aware of what we are doing to protect your data and how we expect 
+you to interact with our services. To help you sort through the legalese (we know it can be a 
+little inaccessible, at times), we have included comments that should clarify what it means 
+when you decide to accept our “Terms of Service and Privacy Policy.” Providing you with superior 
+service and security is our priority, and once you have accepted these terms, we look forward 
+to enabling you to make smart data-driven decisions that change students’ lives.
 
 ##1. SERVICES.
 1.1 Subject to all terms and conditions of this Agreement, Schoolzilla grants You a limited, non-exclusive, non-sublicensable, royalty-free, non-transferrable license to access and use the Services that You have selected in connection therewith, through the online registration and account maintenance processes (“Account Administration”), for Your internal, non-commercial, educational purposes. The Services are subject to modification, restriction, or suspension from time to time at Schoolzilla’s sole discretion, for any purpose deemed appropriate by Schoolzilla (including if You exceed any applicable usage caps Schoolzilla opts to place on certain Services, in its discretion). 
@@ -17,9 +26,9 @@ We’re really excited by the opportunity to serve you and your students by help
 
 >We know imitation is the sincerest form of flattery, but if we’re going to continue providing you with superior services, our product needs to stay unique! Attempts to copy or share our product are not okay. 
 
-2.2 You will cooperate with Schoolzilla in connection with the performance of this Agreement by making available such personnel and information as may be reasonably required, and taking such other actions as Schoolzilla may reasonably request. You will establish a username and password (or any other means required by Schoolzilla) for verifying that only Your designated employees have access to the Services. You will be responsible for maintaining the security of Your account, passwords, and files, and for all uses of Your account with or without Your knowledge or consent.
+2.2 You will cooperate with Schoolzilla in connection with the performance of this Agreement by making available such personnel and information as may be reasonably required, and taking such other actions as Schoolzilla may reasonably request. You will establish a username and password (or any other means required by Schoolzilla) for verifying that only Your designated employees (and not students) have direct access to the Services. You will be responsible for maintaining the security of Your account, passwords, and files, and for all uses of Your account with or without Your knowledge or consent.
 
->We’ll work together to make sure that Schoolzilla is working for you. Protecting your data is very important to us, so please help us keep your data secure by making sure you protect all of your credentials.
+>We’ll work together to make sure that Schoolzilla is working for you. Protecting your data is very important to us, so please help us keep your data secure by making sure you protect all of your credentials, and only provide direct access (i.e., logins) to employees with a legitimate educational interest in the information.
 
 2.3 You will designate an employee who will be responsible for all matters relating to this Agreement (“Primary Contact”). You may change the individual designated as Primary Contact at any time by providing written notice to Schoolzilla (which may be done through Account Administration).
 
@@ -67,7 +76,7 @@ We’re really excited by the opportunity to serve you and your students by help
 
 >All Schoolzilla personnel are trained in security practices and procedures designed to keep Your Data under strict internal controls. 
 
-4.2 Schoolzilla has procedures in place that are designed to stop threats that may expose personally identifiable information, restore Services to full functionality, document and take proactive steps to ensure the incident cannot be repeated. Schoolzilla will also preserve necessary evidence for investigation by security professionals and law enforcement as appropriate. In the unlikely event of an unauthorized disclosure of records, Schoolzilla will follow its Security Incident Response Procedure, which articulates how to report the problem to internal and external stakeholders. The notification process includes any information that can identify which customers and students may have been impacted, the data that may have been accessed, and steps to prevent the incident from happening again as appropriate.
+4.2 Schoolzilla has procedures in place that are designed to stop threats that may expose personally identifiable information, restore Services to full functionality, document and take proactive steps to ensure the incident cannot be repeated. Schoolzilla will also preserve necessary evidence for investigation by security professionals and law enforcement as appropriate. In the unlikely event of an unauthorized disclosure of records, Schoolzilla will follow its Security Incident Response Procedure, which articulates how to report the problem to internal and external stakeholders. The notification process includes any information that can identify which customers and students may have been impacted, the data that may have been accessed, Schoolzilla’s process to inform affected customers, and steps to prevent the incident from happening again as appropriate.
 In the unlikely event of an unauthorized disclosure of Data, Schoolzilla has implemented a process for responding to incidents and notifying affected individuals and, if applicable, law enforcement personnel. 
 
 ##5. SUPPORT.
