@@ -182,4 +182,4 @@ If there is any conflict between this Agreement and any Statement of Work, this 
 
 >We’re really proud to have you as a customer! Your trust in us and in our product means a lot to us, and we love to brag about your achievements for students and schools using Schoolzilla. But if you’re really shy about letting us use your name or logo, let us know (in writing, please) that you don’t want us to identify you as a customer, and we’ll respect your wishes.
 
-Effective 2/6/2015
+Effective 9/9/2016
